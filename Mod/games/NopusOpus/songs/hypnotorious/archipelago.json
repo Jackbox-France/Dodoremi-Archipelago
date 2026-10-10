@@ -1,0 +1,31 @@
+{
+  "unlock": {
+    "difficulty": {
+      "2": "478",
+      "3": "479",
+      "4": "480"
+    }
+  },
+  "progress": {
+    "song": {
+      "survived": "171",
+      "bronze": "172",
+      "silver": "173",
+      "gold": "174"
+    },
+    "difficulty": {
+      "2": {
+        "survived": "175",
+        "perfect": "176"
+      },
+      "3": {
+        "survived": "177",
+        "perfect": "178"
+      },
+      "4": {
+        "survived": "179",
+        "perfect": "180"
+      }
+    }
+  }
+}
