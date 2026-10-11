@@ -1,0 +1,37 @@
+{
+    "localized" : "true",
+    "items": [
+        {
+            "title":"PLAY",
+            "action":"doPlayGame",
+            "value":0
+        },
+        {
+            "title":"PLAY_ARCHIPELAGO",
+            "action":"doPlayArchipelago",
+            "value":1
+        },
+        {
+            "title":"SETTINGS",
+            "action":"doSettings",
+            "value":2
+        },
+        {
+            "title":"CREDITS",
+            "action":"doCredits",
+            "value":3
+        },
+        {
+            "title":"BACK_TO_PACK",
+            "action":"doBackToPack",
+            "value":4,
+            "isValid": "isBundle AND canGoBackToPack"
+        },
+        {
+            "title":"QUIT",
+            "action":"doBackToPack",
+            "value":5,
+            "isValid": "!isBundle OR !canGoBackToPack"
+        }
+    ]
+}
