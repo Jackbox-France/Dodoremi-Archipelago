@@ -8,7 +8,7 @@ An archipelago mod for Dodoremi from the Jackbox Party Pack 10
 
 ## Artificial Intelligence usage
 
-## Apworld
+### Apworld
 
 AI was used exclusively to verify that .apworld code was functioning correctly.
 
