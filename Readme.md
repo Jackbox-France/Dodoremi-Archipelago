@@ -1,4 +1,4 @@
-# Dodoremi - Archipelago
+# Dodo Re Mi - Archipelago
 
 ![./Assets/Icon.png](./Assets/Icon.png)
 
