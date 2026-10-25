@@ -2,13 +2,13 @@
 
 ![./Assets/Icon.png](./Assets/Icon.png)
 
-An archipelago mod for Dodoremi from the Jackbox Party Pack 10
+An Archipelago Mod for Dodo Re Mi from the Jackbox Party Pack 10
 
 # Disclaimers
 
 ## Artificial Intelligence usage
 
-### Apworld
+### ApWorld
 
 AI was used exclusively to verify that .apworld code was functioning correctly.
 
