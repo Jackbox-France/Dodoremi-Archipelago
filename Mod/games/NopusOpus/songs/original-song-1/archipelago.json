@@ -1,5 +1,6 @@
 {
   "unlock": {
+    "type": "item_unlock",
     "difficulty": {
       "1": "495",
       "2": "496",

@@ -1,10 +1,7 @@
 {
   "unlock": {
-    "difficulty": {
-      "2": "463",
-      "3": "464",
-      "4": "465"
-    }
+    "type": "mcguffin_unlock",
+    "unlockItemNumber": "557"
   },
   "progress": {
     "song": {

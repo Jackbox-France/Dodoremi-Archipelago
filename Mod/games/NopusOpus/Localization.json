@@ -330,6 +330,7 @@
       "UNLOCK_TYPE_TOTAL_PARTS_PERFECTED": "Réussissez à la perfection %d sections supplémentaires pour débloquer.",
       "UNLOCK_TYPE_TOTAL_PARTS_PERFECTED_SINGULAR": "Réussissez à la perfection %d section supplémentaire pour débloquer.",
       "UNLOCK_SONG_ARCHIPELAGO": "Non trouvé dans Archipelago",
+      "UNLOCK_VICTORY_SONG_ARCHIPELAGO": "Encore %d points pour débloquer cette chanson",
       "MODERATION_DESCRIPTION": "Permet aux modérateurs d'exclure ou de bannir des joueurs. Les modérateurs rejoignent le jeu à l'adresse mod.jackbox.tv.",
       "PLAYER_CONTENT_FILTERING_OFF_DESCRIPTION": "Tous les noms de joueur sont autorisés.",
       "PLAYER_CONTENT_FILTERING_HATE_SPEECH_DESCRIPTION": "Les mots utilisés dans les discours haineux entraîneront le refus des noms de joueur. Le langage grossier est autorisé.",
